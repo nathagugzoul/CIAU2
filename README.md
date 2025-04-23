@@ -1,4 +1,4 @@
-# CIAU2
+# CIAU
 Page d’accueil 
 **Réponse Structurée :**
 
